@@ -22,3 +22,11 @@
 - #### **Machine Learning**: A field of Artificial Intelligence that teach machines from data.
 
 - #### **Deep Learning**: A field of Marchine Learning that applies the concept of neural network with mutiples layers to solve complex problems, such as image and voice recognition. 
+
+### Types of Learning
+
+- #### **Supervised**: The model is trained with labeled data (whose responses are known) to learn the relationship between the inputs and outputs and thus predict or classify new data.
+
+- #### **Unsupervised**: The model is trained on unlabeled data (no known answers) and must find patterns, groups, and hidden structures in the data.
+
+- #### **Reinforcement**: The model is trained through trial and error. It learns by interacting with the enviroment, receiving rewards or punishments based on its actions, and adjusts its behavior to maximize rewards over time.
