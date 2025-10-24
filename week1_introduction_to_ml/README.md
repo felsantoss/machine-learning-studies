@@ -14,6 +14,10 @@
 
 - #### **Reforço**: O modelo é treinado na tentativa e erro, ele aprende interagindo com o ambiente, recebendo recompensas ou punições de acordo com suas ações, e ajusta seu comportamento para maximizar as recompensas ao longo do tempo.
 
+### Machine Learning Pipeline
+
+- Pipeline de machine learning é a automatização e padronização de processo para treinamento de um modelo, está automação abrange as etapas de coleta de dados, pré-processamento de dados, treinamento, avaliação e a implementação do modelo.
+
 ----------------------------------------
 
 ### Introduction to Machine Learning
@@ -30,3 +34,7 @@
 - #### **Unsupervised**: The model is trained on unlabeled data (no known answers) and must find patterns, groups, and hidden structures in the data.
 
 - #### **Reinforcement**: The model is trained through trial and error. It learns by interacting with the enviroment, receiving rewards or punishments based on its actions, and adjusts its behavior to maximize rewards over time.
+
+### Machine Learning Pipeline
+
+- Machine Learning Pipeline is the automation and standardization of the process for training a model. This automation covers the steps of data collection, data preprocessing, training, evaluation and model implementation.
