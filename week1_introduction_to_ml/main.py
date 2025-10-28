@@ -1,6 +1,10 @@
-import kagglehub as kg
+import pandas as pd
 
-# Download latest version
-path = kg.dataset_download("dansbecker/melbourne-housing-snapshot")
+file_path = '/home/felipesantos/Downloads/iris.data'
 
-print("Path to dataset files:", path)
+iris_data = pd.read_csv(file_path)
+
+#print(iris_data.head())
+print(iris_data.info())
+
+print(iris_data.shape)
